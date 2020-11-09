@@ -1,4 +1,1 @@
-so this is me with my first website
-i think its quite nice
-here is the link:
-https://doingsomethingrandom.github.io/doingsomethingrandom/
+This is how to a great page with lots of things you can do.
