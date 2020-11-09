@@ -18,4 +18,4 @@ what you'll need for this project:
 6. Now your done.
 
 https://doingsomethingrandom.github.io/How-To/ - automatic!
-[Refresh](https://doingsomethingrandom.github.io/How-To/
+[Refresh](https://doingsomethingrandom.github.io/How-To/)
