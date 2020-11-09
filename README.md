@@ -7,5 +7,11 @@ what you'll need for this project:
 - A scissor
 - A marker
 - A ruler
-1. Cut out two pieces of cloth the same size.
-2. Get your sewing needlean attach it to the string of wool or cotton or just any string that is big enough
+- Some lentils
+
+1. Get your ruler and marker then mark a 10cm x 5cm rectangle on the cloth x2.
+2. Cut out the pieces of cloth that you marked.
+3. Get your sewing needlean attach it to the string of wool or cotton or just any string that is big enough.
+4. Sew three edges.
+5. Fill with lentils then sew it close.
+6. Now your done.
