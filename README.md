@@ -17,4 +17,4 @@ what you'll need for this project:
 5. Fill with lentils then sew it close.
 6. Now your done.
 
-[Refresh](http://doingsomethingrandom.github.io/How-To/){: .btn
+[![button](https://doingsomethingrandom.github.io/How-To/)
