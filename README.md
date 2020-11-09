@@ -1,1 +1,1 @@
-This is how to a great page with lots of things you can do.
+This is how to a great page with lots of things you can do in your house
