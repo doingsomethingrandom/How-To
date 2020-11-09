@@ -1,6 +1,6 @@
 **This is how to a great page with lots of things you can do in your house**
 
-**A beanbag**
+*A beanbag*
 
 what you'll need for this project:
 - A sewing needle
