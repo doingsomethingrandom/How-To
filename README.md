@@ -16,3 +16,5 @@ what you'll need for this project:
 4. Sew three edges.
 5. Fill with lentils then sew it close.
 6. Now your done.
+
+[Refresh](http://doingsomethingrandom.github.io/How-To/){: .btn
